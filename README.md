@@ -41,5 +41,3 @@ The system uses **deep learning (CNN)** to detect diseases from leaf images and 
 | **APIs** | Custom ML Prediction API, Weather API (OpenWeather), Soil Info API |
 
 ---
-
-## 📂 Project Structure
