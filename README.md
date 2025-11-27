@@ -28,3 +28,18 @@ The system uses **deep learning (CNN)** to detect diseases from leaf images and 
 - Enables multi-device login & long-term history.
 
 ---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| **Frontend** | Android (Kotlin) & Web (React optional) |
+| **Backend** | Python Flask / FastAPI |
+| **AI/ML** | TensorFlow / Keras, CNN, Transfer Learning (MobileNetV2 / ResNet50) |
+| **Database** | Firebase / MongoDB / PostgreSQL |
+| **Cloud/Hosting** | AWS / GCP / Firebase |
+| **APIs** | Custom ML Prediction API, Weather API (OpenWeather), Soil Info API |
+
+---
+
+## 📂 Project Structure
